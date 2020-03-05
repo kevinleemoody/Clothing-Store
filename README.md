@@ -1,3 +1,13 @@
+### Mock design for E-commerce Clothing Store
+
+
+This is built with ReactJS with Firebase for the back-end and user authentication. 
+
+
+------------
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
